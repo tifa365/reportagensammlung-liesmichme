@@ -1,4 +1,4 @@
-﻿# Readme
+﻿# README
 
 Das Repository enthält eine Sammlung aller gesammelten Reportagen der 2016 eingestellten Kuratoren-Plattform für Langtexte liesmich.me (Archivlink: http://webcache.googleusercontent.com/search?q=cache:F8f0XxG5aUEJ:www.liesmich.me/page/160/&hl=de&gl=de&strip=1&vwsrc=0) 
 
