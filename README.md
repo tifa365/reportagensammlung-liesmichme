@@ -12,3 +12,7 @@ Viele Artikel sind hinter Bezahlschranken verschwunden und einige Links führen 
 
 ### Hinweis
 Dies ist ein inoffizielles Archivierungsprojekt. Die Rechte an den verlinkten Texten liegen bei den jeweiligen Autor:innen und Publikationen.
+
+---
+
+*Stand: 05.12.2025*
